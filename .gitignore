@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/AI/AI_BB.uasset
+Content/AI/AI_Controller.uasset
+Content/AI/AI_Melee_BT.uasset
+Content/AI/Enemies/AI_Melee_BP.uasset
+Content/AI/Task/BT_MovetoRandomLocation.uasset
