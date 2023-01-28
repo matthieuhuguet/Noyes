@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{01C6574D-46A1-F807-604A-0C9E2756C293}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -21,10 +21,6 @@
 		},
 		{
 			"Name": "GeometryScripting",
-			"Enabled": true
-		},
-		{
-			"Name": "Landmass",
 			"Enabled": true
 		}
 	]
