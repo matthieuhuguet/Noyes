@@ -1,6 +1,14 @@
 {
 	"FileVersion": 3,
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+	"EngineAssociation": "{7D653B93-4291-16E2-007F-4CA9628470EC}",
+=======
+	"EngineAssociation": "{99F6223C-4627-EC9B-3042-F9B3594AED27}",
+>>>>>>> Stashed changes
+=======
 	"EngineAssociation": "5.0",
+>>>>>>> Stashed changes
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -18,10 +26,19 @@
 		{
 			"Name": "AnimationWarping",
 			"Enabled": true
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
 		},
 		{
 			"Name": "GeometryScripting",
 			"Enabled": true
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 		}
 	]
 }
