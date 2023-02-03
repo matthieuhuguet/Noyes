@@ -905,3 +905,17 @@ Recommended: 516.25
 [2023.02.03-14.54.58:407][574]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2023.02.03-14.54.59:610][623]LogSlate: Window 'Message Log' being destroyed
 [2023.02.03-14.54.59:637][623]LogSlate: Window 'Message Log' being destroyed
+[2023.02.03-14.55.20:448][810]LogSlate: Took 0.001246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.03-14.55.26:722][ 60]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-14.55.26:722][ 60]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.02.03-14.55.27:218][ 82]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter_Moons1
+[2023.02.03-14.55.27:245][ 82]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter_Moons1
+[2023.02.03-14.55.27:268][ 83]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter_Moons1).
+[2023.02.03-14.55.36:276][486]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter_Moons1 -> BP_ThirdPersonCharacter_Mattthieu
+[2023.02.03-14.55.36:425][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.02.03-14.55.36:543][486]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter_Moons1
+[2023.02.03-14.55.37:994][541]LogPackageLocalizationCache: Processed 34 localized package path(s) for 1 prioritized culture(s) in 0.019529 seconds
+[2023.02.03-14.55.38:192][541]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Mattthieu
+[2023.02.03-14.55.38:192][541]LogSavePackage: Moving '../../../../../Users/m_dinia/Documents/GitHub/Noyes/Saved/BP_ThirdPersonCharacter_Mattthie90AA85554730AC79D80D359588F34605.tmp' to '../../../../../Users/m_dinia/Documents/GitHub/Noyes/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Mattthieu.uasset'
+[2023.02.03-14.55.38:204][541]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_Mattthieu
+[2023.02.03-14.55.38:204][541]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Mattthieu.BP_ThirdPersonCharacter_Mattthieu
