@@ -1,6 +1,8 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+Intermediate/*
+
 # Compiled Object files
 *.slo
 *.lo
@@ -57,6 +59,7 @@ Build/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
@@ -67,8 +70,8 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
 Plugins/*/Intermediate/*
+Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
