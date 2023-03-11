@@ -22,6 +22,10 @@
 		{
 			"Name": "GeometryScripting",
 			"Enabled": true
+		},
+		{
+			"Name": "DidItHit",
+			"Enabled": true
 		}
 	]
 }
