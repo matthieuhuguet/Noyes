@@ -30,10 +30,6 @@
 		{
 			"Name": "Volumetrics",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
