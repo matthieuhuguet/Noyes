@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{CC998562-45E1-B390-2D6A-1A80C4C379C7}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -21,10 +21,6 @@
 		},
 		{
 			"Name": "GeometryScripting",
-			"Enabled": true
-		},
-		{
-			"Name": "DidItHit",
 			"Enabled": true
 		},
 		{
